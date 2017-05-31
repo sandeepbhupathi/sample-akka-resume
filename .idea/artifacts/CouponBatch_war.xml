@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CouponBatch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="CouponBatch-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="CouponBatch:war exploded" />
+    </root>
+  </artifact>
+</component>
